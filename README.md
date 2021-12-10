@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharadinduPaul
-- 👀 I’m interested in FrontEnd and Android development
-- 🌱 I’m currently learning Full stack Web Development, and  Cross-Platform development.
-- 💞️ I’m looking to collaborate
+- 👀 I’m am a FrontEnd Web and Android developer
+- 🌱 On the way to become a Fullstack developer
+- 💞️ I’m looking for collaborations
 - 📫 Email: sharadindu.paul007@gmail.com
       Instagram: @sharadindu_paul
 
